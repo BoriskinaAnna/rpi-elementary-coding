@@ -1,2 +1,44 @@
-<!	
-	
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>БГК им. Мешкова</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <link href="https://fonts.googleapis.com/css?family=Libre+Franklin" rel="stylesheet">
+</head>
+<body>
+
+<header>
+    <meta charset="UTF-8">
+		 <nav>
+		        <div class="topnav">
+		          <ul>
+		                <li>PSD WEBSITES</li>
+		                <li>UI KITS</li>
+		                <li>PREMIUM PSD FILES</li>
+		                <li>ABOUT</li>
+		                <li>BLOG</li>
+		            </ul>
+		        </div>
+   			</nav>
+
+
+
+
+</header>
+
+	 <main >
+
+
+	  
+
+	</main>>
+
+	<footer>
+	    <div>
+	        Брестский гандбольный клуб имени А. П. Мешкова
+	    </div>
+	</footer>
+
+</body>
+</html>
